@@ -6,7 +6,6 @@ module.exports = {
     siteUrl: config.siteUrl,
     description: config.siteDescription,
   },
-  pathPrefix: '/',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
