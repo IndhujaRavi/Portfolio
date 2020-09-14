@@ -4,7 +4,7 @@ module.exports = {
     'Indhuja Ravi is a Computer Science Masters student at San Jose State University, California..',
   siteKeywords:
     'Indhuja Ravi, Indhuja, Ravi, Computer Science, Student, Software Development EAngineer, web developer',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'indhujaravi.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
