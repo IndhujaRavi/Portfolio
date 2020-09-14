@@ -11,15 +11,11 @@
     "gatsby"
   ],
   "license": "MIT",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
-    "eject": "react-scripts eject",
-    "test": "react-scripts test",
+"scripts": {
+    "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "react-scripts start",
+    "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
