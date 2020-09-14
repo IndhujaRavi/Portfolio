@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Indhuja Ravi | Computer Science Student',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Indhuja Ravi is a Computer Science Masters student at San Jose State University, California..',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Indhuja Ravi, Indhuja, Ravi, Computer Science, Student, Software Development EAngineer, web developer',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  name: 'Indhuja Ravi',
+  location: 'San Jose, CA',
+  email: 'indhujaravi12@gmail.com',
+  github: 'https://github.com/IndhujaRavi',
+  twitterHandle: '',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/IndhujaRavi',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/indhuja-ravi/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Handshake',
+      url: 'https://sjsu.joinhandshake.com/users/19709091',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/brownieeboots/',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      name: 'Facebook',
+      url: 'https://www.facebook.com/indhuja.ravi.77/',
     },
   ],
 
@@ -46,9 +46,14 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
+    // {
+    //   name: 'Education',
+    //   url: '/#education',
+
+    // },
     {
       name: 'Contact',
       url: '/#contact',

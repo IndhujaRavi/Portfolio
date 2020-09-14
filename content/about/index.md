@@ -2,18 +2,16 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Python
+  - MySQL
+  - C
+  - C++
+  - Java
+  - R
+  - PHP
+  - HTML & CSS
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Indhuja, a computer science masters student based in San Jose, CA. I currently go to [San Jose State University](https://www.sjsu.edu) from where I will be graduating in May 2021. I enjoy optimizing solutions and aim to build applications that will create real impact in the world. I believe in incremental development and that a growth mindset is essential for well-made applications.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
-
-Here are a few technologies I've been working with recently:
+ I am diligent and adaptive with an apetite for continuous learning. I see myself building intriguing applications that are fast, secure and customer-oriented. I am currently looking for co-ops and full-time opportunities for 2021. The following are some of my skills

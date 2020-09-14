@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Indhuja Ravi'
+subtitle: 'I learn. I build. I optimize.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a computer science masters student based in San Jose, CA and I am passionate about problem-solving, web development and cloud computing.

@@ -24,14 +24,14 @@ const StyledContent = styled.div`
   `};
   ${media.phablet`padding: 30px 25px 20px;`};
 `;
-const StyledLabel = styled.h4`
-  font-size: ${fontSizes.smish};
-  font-weight: normal;
-  color: ${colors.green};
-  font-family: ${fonts.SFMono};
-  margin-top: 10px;
-  padding-top: 0;
-`;
+// const StyledLabel = styled.h4`
+//   font-size: ${fontSizes.smish};
+//   font-weight: normal;
+//   color: ${colors.green};
+//   font-family: ${fonts.SFMono};
+//   margin-top: 10px;
+//   padding-top: 0;
+// `;
 const StyledProjectName = styled.h5`
   font-size: 28px;
   margin: 0 0 20px;
@@ -227,7 +227,6 @@ const Featured = ({ data }) => {
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <StyledContent>
-                  <StyledLabel>Featured Project</StyledLabel>
                   <StyledProjectName>
                     {external ? (
                       <a

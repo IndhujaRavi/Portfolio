@@ -3,4 +3,4 @@ title: 'Get In Touch'
 buttonText: 'Say Hello'
 ---
 
-Although I'm not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+I will graduate in May 2021 with my MSCS degree and I am currently looking for full-time opportunities in the Software Development field. If my skills and experience look like a fit or if you have any questions, feel free to reach out. 
